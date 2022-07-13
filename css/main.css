@@ -281,7 +281,7 @@ body{
 
   transform: rotateZ(45deg);
 
-  border: 1px solid #fff;
+  border: 1px solid rgb(154, 205, 50);
 
   /* border-top-left-radius: 250%;
   border-top-right-radius: 250%; */
@@ -310,7 +310,7 @@ body{
 
 
 .side {
-  border: 3px solid rgba(255, 255, 255, 1);
+  border: 3px solid tomato;
   border-radius: 100%;
   /* border-radius: 100%; */
   width: 100%;
